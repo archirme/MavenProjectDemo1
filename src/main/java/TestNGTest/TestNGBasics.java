@@ -11,6 +11,9 @@ public class TestNGBasics {
 	@BeforeSuite
 	public void setup() {
 		System.out.println("Setup System Properties for Browser");	
+		/*testline1*/
+		/*testline2*/
+		/*testline3*/
 	}
 	
 	
