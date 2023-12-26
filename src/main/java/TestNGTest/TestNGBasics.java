@@ -63,4 +63,9 @@ public class TestNGBasics {
 	public void checkPageTitle1() {
 		System.out.println("Check Page");
 	}
+	
+	@Test
+	public void checkPageTitle2() {
+		System.out.println("Check Page");
+	}
 }
