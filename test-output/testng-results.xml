@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-26T21:03:20 IST" name="Default suite" finished-at="2022-01-26T21:03:20 IST" duration-ms="81">
+    <groups>
+    </groups>
+    <test started-at="2022-01-26T21:03:20 IST" name="Default test" finished-at="2022-01-26T21:03:20 IST" duration-ms="81">
+      <class name="TestNGTest.TestNGBasics">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNGTest.TestNGBasics@3c419631]" started-at="2022-01-26T21:03:20 IST" name="setup" finished-at="2022-01-26T21:03:20 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="lauchBrowser()[pri:0, instance:TestNGTest.TestNGBasics@3c419631]" started-at="2022-01-26T21:03:20 IST" name="lauchBrowser" finished-at="2022-01-26T21:03:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method is-config="true" signature="openWebPage()[pri:0, instance:TestNGTest.TestNGBasics@3c419631]" started-at="2022-01-26T21:03:20 IST" name="openWebPage" finished-at="2022-01-26T21:03:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebPage -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNGTest.TestNGBasics@3c419631]" started-at="2022-01-26T21:03:20 IST" name="login" finished-at="2022-01-26T21:03:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkPageTitle()[pri:0, instance:TestNGTest.TestNGBasics@3c419631]" started-at="2022-01-26T21:03:20 IST" name="checkPageTitle" finished-at="2022-01-26T21:03:20 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPageTitle -->
+      </class> <!-- TestNGTest.TestNGBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
