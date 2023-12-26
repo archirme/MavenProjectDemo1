@@ -42,4 +42,25 @@ public class TestNGBasics {
 	public void checkPageTitle() {
 		System.out.println("Check Page");
 	}
+	
+	@BeforeTest
+	public void lauchBrowser1() {
+		System.out.println("Launch Browser");	
+	}
+	
+	
+	@BeforeClass
+	public void openWebPage1() {
+		System.out.println("Open Web Page");	
+	}
+	
+	@BeforeMethod
+	public void login1() {
+		System.out.println("Login to App");	
+	}
+	
+	@Test
+	public void checkPageTitle1() {
+		System.out.println("Check Page");
+	}
 }
