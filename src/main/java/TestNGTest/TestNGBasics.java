@@ -14,6 +14,11 @@ public class TestNGBasics {
 		/*testline1*/
 		/*testline2*/
 		/*testline3*/
+		
+		/*testline4*/
+		/*testline5*/
+		/*testline6*/
+		/*testline7*/
 	}
 	
 	
